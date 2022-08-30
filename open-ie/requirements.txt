@@ -1,0 +1,5 @@
+scispacy==0.5.0
+spacy==3.2.3
+flair==0.10
+spacy-transformers==1.1.5
+transformers==4.17.0

@@ -1,0 +1,6 @@
+pandas
+yfinance
+sec-api
+selenium
+beautifulsoup4
+nltk
